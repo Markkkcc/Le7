@@ -1,5 +1,5 @@
 token=NDkzMTI5NTc0NTI4MzE5NDkw.DogjYA.GtV-HALzYDxbJpTII-3qjdTdXjs
 owner=466858375544832001 
-prefix=jo
-game=joplay
+prefix=7
+game=7play|Looks.
 stayinchannel=true
